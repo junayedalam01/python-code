@@ -30,3 +30,12 @@ print(b.isdigit())
 print("")
 c="bittu@123"
 print(c.isalnum()) #spac cont and spsal cunt
+
+
+#output int
+
+a=67
+print(chr(a))
+print("")
+b='a'
+print(ord(b))

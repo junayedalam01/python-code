@@ -19,9 +19,33 @@ print(u)
 print()
 for q in range(d):
     print(q)
+
+
+
+
+
     
     print
     
 for y in range(d,-1,-1,-1):
      
        print(y[d])  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a = "junayed alam biswas"
+
+for b in a:
+    print(a,b)
+
